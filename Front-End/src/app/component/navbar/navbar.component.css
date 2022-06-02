@@ -1,0 +1,35 @@
+.navbar-brand{
+    color: rgb(224, 215, 210)
+    
+}
+
+.navbar-expand-lg{
+    background-color: #135997;
+}
+
+.nav-link{
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.crypto-icon{
+    width: 40px;
+}
+
+.navbar-nav{
+    margin-left: 50px;
+}
+
+.nav-item{
+    margin-left: 30px;
+    
+}
+
+.nav-item:hover{
+    background-color:#164e7e;
+    border-radius: 50px;
+}
+
+.nav-link:hover{
+    color:#c2ad67;
+}

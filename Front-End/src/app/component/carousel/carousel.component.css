@@ -1,0 +1,18 @@
+.wrapper{
+    margin:auto;
+}
+
+.container-fluid{
+    background-color:#0c477a;
+    /* margin:auto; */
+}
+
+.titre{
+    align-items:center;
+}
+
+.mx-auto{
+    width:640px;
+    height:360px;
+    padding-top:5px
+}
