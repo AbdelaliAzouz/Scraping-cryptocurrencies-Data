@@ -49,8 +49,8 @@ exported = zip_longest(*file_list)
 for i in range(len(coin_names)):
     coin_name.append(coin_names[i].text.strip())
     ticker.append(tickers[i].text.strip())
-    price.append(prices[i].text)
-    percentage.append(percentages[i].text)
+    price.append(prices[i].text.strip('$'))
+    percentage.append(percentages[i].text.strip('%'))
     market_cap.append(market_caps[i].text)
     total_coin.append(total_coins[i].text)
 

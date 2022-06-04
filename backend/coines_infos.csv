@@ -1,101 +1,101 @@
 coin Name,ticker,price,percentage,market_cap,total_coin
-Bitcoin,BTC,"$  31,550 ",-0.72%,$ 601.18B ,19.05M
-Ethereum,ETH,"$  1,937.83 ",-0.26%,$ 234.48B ,121.00M
-Waves,WAVES,$  8.77 ,-2.90%,$ 877.23M ,100.00M
-Cardano,ADA,$  0.610471 ,-2.49%,$ 19.50B ,31.94B
-Binanceusd,BUSD,$  0.999919 ,+0.10%,$ 1.68B ,1.68B
-Luna,LUNA,$  7.18 ,-18.51%,,
-Binancecoin,BNB,$  317.87 ,-0.84%,$ 49.12B ,154.53M
-NuCypher,NU,$  0.360257 ,+108.77%,$ 125.88M ,349.42M
-Ripple,XRP,$  0.417186 ,-1.16%,$ 20.16B ,48.34B
-Tron,TRX,$  0.089951 ,+6.92%,$ 6.44B ,71.65B
-Solana,SOL,$  44.93 ,-1.74%,$ 11.76B ,261.90M
-Avalanche,AVAX,$  25.76 ,-2.43%,$ 3.29B ,128.01M
-Dogecoin,DOGE,$  0.088144 ,+2.73%,$ 11.40B ,129.40B
-Tether,USDT,$  0.998939 ,+0.05%,$ 42.94B ,42.99B
-STEPN,GMT,$  1.14 ,-3.73%,$ 683.61M ,600.00M
-Litecoin,LTC,$  68.71 ,+0.28%,$ 4.63B ,67.40M
-Threshold Network Token,T,$  0.063681 ,+34.38%,,
-Polkadot,DOT,$  10.40 ,+0.40%,$ 9.86B ,947.85M
-Apecoin,APE,$  6.78 ,+0.07%,$ 835.25M ,123.24M
-NEAR Protocol,NEAR,$  5.84 ,-1.88%,$ 1.99B ,341.32M
-Axie Infinity,AXS,$  22.60 ,-5.39%,$ 977.44M ,43.25M
-Polygon,MATIC,$  0.644540 ,-2.62%,$ 3.87B ,6.00B
-Chainlink,LINK,$  7.53 ,-0.68%,$ 3.14B ,417.50M
-Originprotocol,OGN,$  0.316581 ,-5.42%,$ 87.21M ,275.47M
-Ethereumclassic,ETC,$  23.60 ,-0.72%,$ 3.00B ,127.32M
-Eos,EOS,$  1.37 ,-1.00%,$ 1.40B ,1.02B
-SHIBA INU,SHIB,$  0.000012 ,+0.59%,$ 5.86B ,497.73T
-Bitcoincash,BCH,$  201.02 ,-1.84%,$ 3.75B ,18.67M
-Aave,AAVE,$  116.36 ,+3.13%,$ 1.23B ,10.58M
-Kava,KAVA,$  2.78 ,-4.35%,$ 226.57M ,81.44M
-Cosmos,ATOM,$  10.37 ,+0.46%,$ 1.97B ,190.68M
-Stpt,STPT,$  0.056357 ,+19.52%,,
-Zilliqa,ZIL,$  0.053619 ,-2.14%,$ 757.36M ,14.12B
-Wemix,WEMIX,$  3.96 ,-8.86%,,
-Filecoin,FIL,$  7.99 ,-1.18%,$ 948.84M ,118.75M
-Sandbox,SAND,$  1.40 ,-3.15%,$ 924.10M ,658.22M
-Usd coin,USDC,$  0.998018 ,+0.16%,$ 6.99B ,7.00B
-Sushi,SUSHI,$  1.77 ,-5.29%,$ 430.11M ,242.49M
-Decentraland,MANA,$  1.05 ,-3.47%,$ 1.10B ,1.05B
-Stellarlumens,XLM,$  0.146397 ,-2.60%,$ 3.64B ,24.92B
-Fantom,FTM,$  0.395046 ,-2.10%,$ 1.00B ,2.54B
-Kyber,KNC,$  2.14 ,-2.83%,$ 387.76M ,180.93M
-Monero,XMR,$  196.18 ,-0.89%,$ 3.32B ,16.92M
-Algorand,ALGO,$  0.415985 ,+1.27%,$ 1.35B ,3.25B
-Gala,GALA,$  0.080874 ,-2.52%,$ 610.19M ,7.54B
-Neo,NEO,$  11.67 ,+1.26%,$ 823.31M ,70.53M
-dKargo,DKA,$  0.066317 ,+8.38%,,
-Thorchain,RUNE,$  3.09 ,-2.09%,$ 820.31M ,265.17M
-Terra Luna Classic,LUNC,$  0.000105 ,-7.60%,$ 688.70M ,6.53T
-ConstitutionDAO,PEOPLE,$  0.022700 ,-1.65%,,
-Loopring,LRC,$  0.568966 ,+0.52%,$ 751.03M ,1.32B
-Dash,DASH,$  64.41 ,-0.50%,$ 692.66M ,10.75M
-Uniswap,UNI,$  5.66 ,-0.80%,$ 2.96B ,523.25M
-Biconomy,BICO,$  0.802657 ,-7.26%,,
-Vechain,VET,$  0.033233 ,+1.27%,$ 1.84B ,55.45B
-Zcash,ZEC,$  93.74 ,+0.42%,$ 1.36B ,14.50M
-Compound,COMP,$  66.26 ,+4.06%,$ 169.70M ,2.56M
-BitDAO,BIT,$  0.755561 ,+1.24%,,
-Thetatoken,THETA,$  1.33 ,-0.63%,$ 1.15B ,870.50M
-Internet Computer,ICP,$  8.11 ,-1.94%,$ 1.11B ,136.89M
-Curve DAO Token,CRV,$  1.37 ,-0.99%,$ 653.32M ,477.42M
-Thetafuel,TFUEL,$  0.065572 ,+3.58%,$ 251.68M ,3.83B
-Jasmy,JASMY,$  0.012958 ,-4.22%,$ 61.61M ,4.75B
-Oasis Network,ROSE,$  0.075307 ,-4.96%,,
-Immutable X,IMX,$  1.06 ,-4.14%,,
-dYdX,DYDX,$  2.03 ,-0.14%,$ 115.73M ,57.07M
-Synthetixnetwork,SNX,$  3.19 ,+2.11%,$ 461.72M ,144.61M
-Kusama,KSM,$  81.25 ,+1.88%,$ 729.65M ,8.98M
-Enjin,ENJ,$  0.680609 ,-2.57%,$ 522.10M ,767.10M
-Anchor Protocol,ANC,$  0.211858 ,-8.49%,,
-Chiliz,CHZ,$  0.127887 ,+4.64%,$ 709.47M ,5.54B
-Elrond,EGLD,$  79.36 ,-1.31%,$ 1.36B ,17.14M
-Just,JST,$  0.046755 ,+4.61%,$ 105.68M ,2.26B
-SuperRare,RARE,$  0.278828 ,-1.41%,,
-Qtum,QTUM,$  4.17 ,+0.18%,$ 372.36M ,89.40M
-Iostoken,IOST,$  0.018693 ,+3.31%,$ 127.00M ,6.79B
-The Graph,GRT,$  0.160500 ,-1.53%,$ 196.61M ,1.22B
-OMG Network,OMG,$  2.78 ,+0.83%,$ 389.53M ,140.24M
-Holotoken,HOT,$  0.002695 ,-9.01%,$ 434.78M ,161.33B
-0x,ZRX,$  0.440610 ,+3.55%,$ 372.46M ,845.34M
-Chromia,CHR,$  0.251896 ,-4.41%,$ 142.91M ,567.36M
-Ethereum Name Service,ENS,$  11.73 ,-1.08%,,
-Celo,CELO,$  1.45 ,-1.67%,$ 141.74M ,97.94M
-Tezos,XTZ,$  2.10 ,+0.37%,$ 1.54B ,737.88M
-Bella Protocol,BEL,$  0.799470 ,-6.92%,,
-BakeryToken,BAKE,$  0.393746 ,+10.05%,,
-MyNeighborAlice,ALICE,$  3.07 ,-2.19%,,
-Maker,MKR,"$  1,313.21 ",-0.46%,$ 1.32B ,1.00M
-Bat,BAT,$  0.414573 ,+2.98%,$ 621.85M ,1.50B
-Ftxtoken,FTT,$  28.51 ,-1.50%,$ 2.68B ,94.34M
-Dent,DENT,$  0.001325 ,-5.71%,$ 126.78M ,95.65B
-1inch,1INCH,$  0.979352 ,+1.13%,$ 147.79M ,150.91M
-Project Galaxy,GAL,$  4.71 ,-4.12%,,
-Voyager,VGX,$  1.21 ,+18.41%,$ 267.88M ,222.29M
-Hunt,HUNT,$  0.559276 ,-5.64%,,
-Aelf,ELF,$  0.168887 ,+3.43%,$ 42.22M ,250.00M
-Flow (Dapper labs),FLOW,$  2.65 ,-2.43%,$ 151.25M ,57.06M
-Swipe,SXP,$  0.533232 ,+3.28%,$ 99.91M ,187.37M
-Step App,FITFI,$  0.127128 ,-3.88%,,
-Stratis,STRAX,$  0.626005 ,+3.70%,$ 62.64M ,100.07M
+Ethereum,ETH,"  1,780.90 ",+0.26,$ 215.57B ,121.04M
+Bitcoin,BTC,"  29,795 ",+0.38,$ 567.83B ,19.05M
+Solana,SOL,  37.62 ,-1.67,$ 9.85B ,261.90M
+Waves,WAVES,  8.88 ,-9.09,$ 887.60M ,100.00M
+Binanceusd,BUSD,  1.00 ,+0.04,$ 1.68B ,1.68B
+Tron,TRX,  0.079841 ,-1.35,$ 5.72B ,71.65B
+Ripple,XRP,  0.392678 ,+0.48,$ 18.98B ,48.34B
+Binancecoin,BNB,  300.92 ,+0.99,$ 46.50B ,154.53M
+Cardano,ADA,  0.559394 ,+0.10,$ 17.87B ,31.94B
+Avalanche,AVAX,  23.34 ,+1.63,$ 2.98B ,128.01M
+Stpt,STPT,  0.060473 ,+9.49,,
+Litecoin,LTC,  63.54 ,+1.16,$ 4.28B ,67.40M
+Dogecoin,DOGE,  0.081425 ,+1.45,$ 10.53B ,129.40B
+Optimism,OP,  1.41 ,+2.92,,
+Polkadot,DOT,  9.41 ,+0.48,$ 8.92B ,947.85M
+Chainlink,LINK,  6.97 ,+1.71,$ 2.90B ,417.50M
+Wemix,WEMIX,  3.72 ,+4.59,,
+STEPN,GMT,  1.00 ,-1.05,$ 600.70M ,600.00M
+Eos,EOS,  1.28 ,+1.11,$ 1.31B ,1.02B
+Tether,USDT,  0.999550 ,+0.06,$ 42.97B ,42.99B
+Apecoin,APE,  6.16 ,+0.67,$ 759.15M ,123.24M
+Stellarlumens,XLM,  0.141800 ,-3.06,$ 3.53B ,24.94B
+Polygon,MATIC,  0.595307 ,+1.11,$ 3.57B ,6.00B
+NEAR Protocol,NEAR,  5.25 ,+0.02,$ 1.79B ,341.32M
+Ethereumclassic,ETC,  21.85 ,+0.27,$ 2.78B ,127.32M
+Axie Infinity,AXS,  20.24 ,+1.42,$ 875.26M ,43.25M
+SHIBA INU,SHIB,  0.000011 ,+0.43,$ 5.39B ,497.73T
+Bitcoincash,BCH,  189.08 ,+2.44,$ 3.53B ,18.67M
+Cosmos,ATOM,  9.14 ,-0.23,$ 1.74B ,190.68M
+Swipe,SXP,  0.565393 ,-5.71,$ 105.93M ,187.37M
+Internet Computer,ICP,  7.66 ,-3.20,$ 1.04B ,136.89M
+Ocean,OCEAN,  0.232861 ,-2.21,$ 73.14M ,314.11M
+Neo,NEO,  11.19 ,+0.70,$ 789.29M ,70.53M
+The Graph,GRT,  0.160359 ,+8.70,$ 196.43M ,1.22B
+Bella Protocol,BEL,  0.880595 ,-17.30,,
+Usd coin,USDC,  1.00 ,0.00,$ 7.01B ,7.00B
+BitDAO,BIT,  0.536636 ,+1.33,,
+Luna,LUNA,  6.41 ,-1.16,,
+NuCypher,NU,  0.261080 ,-6.47,$ 91.22M ,349.42M
+Fantom,FTM,  0.348357 ,-2.06,$ 885.22M ,2.54B
+Sandbox,SAND,  1.29 ,-0.30,$ 848.35M ,658.22M
+Decentraland,MANA,  0.976002 ,-0.29,$ 1.02B ,1.05B
+ConstitutionDAO,PEOPLE,  0.020083 ,+1.89,,
+Dash,DASH,  58.61 ,+0.27,$ 630.59M ,10.75M
+Monero,XMR,  190.98 ,-0.86,$ 3.23B ,16.92M
+Gala,GALA,  0.073688 ,+0.16,$ 555.97M ,7.54B
+Filecoin,FIL,  7.40 ,+0.29,$ 878.86M ,118.75M
+AS Roma Fan Token,ASR,  3.57 ,+31.12,,
+Zcash,ZEC,  89.34 ,-0.59,$ 1.29B ,14.53M
+Jasmy,JASMY,  0.012105 ,+0.40,$ 57.55M ,4.75B
+Zilliqa,ZIL,  0.049831 ,-0.31,$ 703.85M ,14.12B
+Sushi,SUSHI,  1.57 ,+1.49,$ 379.72M ,242.53M
+Aave,AAVE,  104.63 ,-2.04,$ 1.10B ,10.58M
+USDD,USDD,  1.00 ,+0.01,,
+MyNeighborAlice,ALICE,  2.95 ,+3.97,,
+Immutable X,IMX,  0.950313 ,-1.65,,
+Sentinelprotocol,UPP,  0.089541 ,+5.14,,
+Thorchain,RUNE,  2.94 ,+7.75,$ 779.07M ,265.17M
+Chiliz,CHZ,  0.126447 ,+3.83,$ 701.48M ,5.54B
+Algorand,ALGO,  0.375886 ,-1.21,$ 1.22B ,3.25B
+Reserverights,RSR,  0.007284 ,+3.56,$ 68.08M ,9.34B
+Anchor Protocol,ANC,  0.213085 ,+3.86,,
+Compound,COMP,  56.84 ,+1.73,$ 145.57M ,2.56M
+Uniswap,UNI,  5.08 ,+0.24,$ 2.65B ,523.25M
+Alien Worlds,TLM,  0.035683 ,-1.01,$ 44.26M ,1.24B
+OMG Network,OMG,  2.42 ,+0.13,$ 339.49M ,140.24M
+Loopring,LRC,  0.511741 ,-0.96,$ 675.49M ,1.32B
+Enjin,ENJ,  0.615350 ,+0.72,$ 472.03M ,767.10M
+Cartesi,CTSI,  0.201886 ,-3.61,$ 76.81M ,380.50M
+dKargo,DKA,  0.065974 ,+0.84,,
+Orbs,ORBS,  0.053335 ,+4.21,,
+Kyber,KNC,  2.01 ,+0.56,$ 364.24M ,180.93M
+Vechain,VET,  0.030454 ,+0.82,$ 1.68B ,55.45B
+Wrappedbitcoin,WBTC,"  29,805 ",+0.38,,
+Qtum,QTUM,  3.86 ,+0.94,$ 345.28M ,89.40M
+dYdX,DYDX,  1.73 ,+1.30,$ 98.66M ,57.07M
+Just,JST,  0.041465 ,-1.91,$ 93.72M ,2.26B
+Curve DAO Token,CRV,  1.17 ,-0.02,$ 561.98M ,479.61M
+Cocosbcx,COCOS,  0.846684 ,+21.86,,
+Wax,WAXP,  0.129600 ,-2.66,$ 63.88M ,492.95M
+Mossland,MOC,  0.133554 ,+8.50,$ 36.79M ,275.50M
+1inch,1INCH,  0.861378 ,-1.26,$ 129.99M ,150.91M
+Maker,MKR,"  1,167.25 ",+2.00,$ 1.17B ,1.00M
+Kava,KAVA,  2.51 ,+1.61,$ 204.09M ,81.44M
+Flow (Dapper labs),FLOW,  2.47 ,+1.95,$ 141.00M ,57.06M
+Tezos,XTZ,  1.89 ,-0.89,$ 1.39B ,737.88M
+Synthetixnetwork,SNX,  2.65 ,-2.75,$ 383.13M ,144.61M
+Oasis Network,ROSE,  0.067778 ,+2.41,,
+Originprotocol,OGN,  0.279353 ,-2.67,$ 76.95M ,275.47M
+Bluzelle,BLZ,  0.089133 ,-4.73,,
+Ftxtoken,FTT,  25.80 ,-0.58,$ 2.43B ,94.34M
+Orbler,ORBR,  21.86 ,+0.03,,
+Bat,BAT,  0.376576 ,-0.66,$ 564.86M ,1.50B
+Terra Luna Classic,LUNC,  0.000094 ,-1.67,$ 610.62M ,6.53T
+Wink,WIN,  0.000150 ,-0.20,$ 46.89M ,313.60B
+Iostoken,IOST,  0.016893 ,-0.01,$ 114.77M ,6.79B
+Dai,DAI,  1.01 ,+0.79,,
+Aragon,ANT,  1.79 ,-1.33,$ 70.71M ,39.60M
+A Hunters Dream,CAW,  0.000000 ,+24.70,,
+Mines of Dalarnia,DAR,  0.435079 ,+5.11,,

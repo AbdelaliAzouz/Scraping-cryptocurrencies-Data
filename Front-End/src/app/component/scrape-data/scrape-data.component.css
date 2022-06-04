@@ -1,3 +1,13 @@
-h2{
+h2,h4{
 text-align: center;
+color: rgb(231, 213, 213);
 }
+
+
+.mydiv {
+    margin: auto;
+    width: 100%;
+    border: 2px solid rgb(12, 90, 126);
+    padding: 10px;
+    background-color: #0C477A;
+  }

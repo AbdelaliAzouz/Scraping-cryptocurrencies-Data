@@ -9,3 +9,14 @@
 #ether{
     width: 37px;
 }
+
+.card-group{
+    padding: 50px;
+}
+
+#card2{
+    align-items: center;
+    width: 50px;
+    margin: auto;
+    background-color: #0000
+}

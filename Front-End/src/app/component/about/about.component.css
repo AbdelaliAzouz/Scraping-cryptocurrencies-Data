@@ -1,3 +1,15 @@
 .about{
     align-items: center;
+    background-color: #0C477A;
+    padding-top:50px;
+    padding-bottom:50px;
+    border: 2px solid rgb(12, 90, 126);
+
+}
+
+.card{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+
 }
