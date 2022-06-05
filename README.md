@@ -4,7 +4,9 @@ Web Scraping project developed by Angular/Flask/MongoDB  #To run this project, e
 Objectif : L’objectif principal du projet est la réalisation d’une plateforme ETL « Extract, Transform and
 Load » et Data Visualisation / Analysis.
 
+
 Cahier des charges :
+
 La mise en place d’une plateforme web de type single page application, pour les opérations d’un ETL et
 la Data Visualisation.
 la base de données cible pour ce projet est MangoDB, il s’agit d’une base de données NoSQL orientée
@@ -16,6 +18,7 @@ Essayer d’intégrer Mongodb avec le moteur Elasticsearch et Kibana pour appliq
 d’analyse de données, l ‘analyse statistique « descriptif , inférentiel », lie cette partie avec Flask.
 Developper l’application web qui consomme les services « Data Visualisation, Analyse de données /
 statistiques », cette application doit être paramétrable en personnalisant les champs cibles.
+
 
  Outils : Flask, GraphQl, TypeScript /Angular 13, MangoDB, Pandas, Beautifulsoup /scrapy, elastic search
 et kibana, seaborn
