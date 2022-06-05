@@ -12,6 +12,9 @@ import { VisualizeDataComponent } from './component/visualize-data/visualize-dat
 import { AboutComponent } from './component/about/about.component';
 import { FooterComponent } from './component/footer/footer.component';
 import { CardsComponent } from './component/cards/cards.component';
+import { BarChartComponent } from './component/charts/bar-chart/bar-chart.component';
+import { NgChartsModule } from 'ng2-charts';
+  
 
 @NgModule({
   declarations: [
@@ -23,12 +26,14 @@ import { CardsComponent } from './component/cards/cards.component';
     VisualizeDataComponent,
     AboutComponent,
     FooterComponent,
-    CardsComponent
+    CardsComponent,
+    BarChartComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgbModule
+    NgbModule,
+    NgChartsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
