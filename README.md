@@ -1,24 +1,24 @@
 # Scraping-cryptocurrencies-Data
-Web Scraping project developed by Angular/Flask/MongoDB  #To run this project, execute the following commands  npm install &amp; npm start
+Web Scraping project developed using Angular/Flask/MongoDB 
+#To run this project, execute the following commands npm install &amp; npmstart
 
-Objectif : L’objectif principal du projet est la réalisation d’une plateforme ETL « Extract, Transform and
-Load » et Data Visualisation / Analysis.
+Objective: The main objective of the project is to build an ETL platform “Extract, Transform and
+Load” and Data Visualization / Analysis.
 
+Specifications :
 
-Cahier des charges :
+#The implementation of a web platform of the single page application type, for the operations of an ETL and the Data Visualization.
 
-La mise en place d’une plateforme web de type single page application, pour les opérations d’un ETL et
-la Data Visualisation.
-la base de données cible pour ce projet est MangoDB, il s’agit d’une base de données NoSQL orientée
-documents, cette base de données doit être alimentée après le processus ETL d’ou la partie Extraction
-doit être faite a travers le Scraping qui va collecter les données depuis les sites web sur une thématique
-bien précise, puis il faut respecter les étape de Load et transformation en utilisant des techniques du
-data pre-processing sur les données pour améliorer leurs qualités.
-Essayer d’intégrer Mongodb avec le moteur Elasticsearch et Kibana pour appliquer les techniques
-d’analyse de données, l ‘analyse statistique « descriptif , inférentiel », lie cette partie avec Flask.
-Developper l’application web qui consomme les services « Data Visualisation, Analyse de données /
-statistiques », cette application doit être paramétrable en personnalisant les champs cibles.
+#the target database for this project is MangoDB, it is a NoSQL database oriented documents, this database must be populated after the ETL process
+the Extraction part must be done through Scraping which will collect data from websites on a theme from your choice, then it is necessary to respect the stages of Load and transformation by using techniques of the data pre-processing on data to improve their quality.
 
 
- Outils : Flask, GraphQl, TypeScript /Angular 13, MangoDB, Pandas, Beautifulsoup /scrapy, elastic search
-et kibana, seaborn
+#integrate Mongodb with Elasticsearch engine and Kibana to apply the techniques data analysis, "descriptive, inferential" statistical analysis, links this part with Flask.
+
+#Develop the web application that consumes the "Data Visualization, Data Analysis /
+statistics”, this application must be configurable by customizing the target fields.
+
+
+
+Tools: Flask, GraphQl, TypeScript /Angular 13, MangoDB, Pandas, Beautifulsoup /scrapy, elastic search
+and kibana, seaborn
