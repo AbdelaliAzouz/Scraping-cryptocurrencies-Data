@@ -21,7 +21,7 @@ app = Flask(__name__)
 def home():
     scrape_mongo()
     return render_template('index.html')
-#======================data scraping endpoint=======================
+#======================data scrapping endpoint=======================
 
 @app.route('/scrape_data', methods = ['POST'])
 def scrape():
